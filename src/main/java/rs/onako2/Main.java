@@ -61,7 +61,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         if (!config.exists()) {
-            download("https://nuc.de.majic.rs/tuutbot/config.properties", "config.properties");
+            download("https://raw.githubusercontent.com/Onako2/ichbineinbot/master/src/main/resources/default-config.properties", "config.properties");
         }
 
         if (new Config().getConfig("agreeMIT").equals("false")) {
