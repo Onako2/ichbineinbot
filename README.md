@@ -11,4 +11,4 @@ Still in early development
 - `!ziege` - Tells Ziege how to behave
 - `topwatchtime` - Shows the top 5 viewers with the most watchtime
 
-**More documentation soon!**
+Documentation is on https://github.com/Onako2/ichbineinbot/wiki
