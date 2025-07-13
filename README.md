@@ -9,6 +9,6 @@ Still in early development
 - `!uptime` - Tells the uptime of the stream
 - `!clip` - Creates a clip
 - `!ziege` - Tells Ziege how to behave
-- `topwatchtime` - Shows the top 5 viewers with the most watchtime
+- `!topwatchtime` - Shows the top 5 viewers with the most watchtime
 
 Documentation is on https://github.com/Onako2/ichbineinbot/wiki
